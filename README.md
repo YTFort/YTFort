@@ -6,6 +6,9 @@
   <a href="https://www.youtube.com/c/Fortcote">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
+  <a href="https://discord.gg/bjgpVAxgyE">
+    <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt=""/>
 </div>
