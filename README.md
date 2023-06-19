@@ -7,4 +7,5 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt=""/>
 </div>
