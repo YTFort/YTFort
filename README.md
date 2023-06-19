@@ -30,3 +30,4 @@
 </div>
 <h1>:star: My Stats:</h1>
 <img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat"/>
