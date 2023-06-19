@@ -15,7 +15,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt=""/>
 </div>
-<h1> :hammer_and_wrench: Languages: </h1>
+<h1> :hammer_and_wrench: Languages and Tools: </h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
