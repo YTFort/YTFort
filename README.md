@@ -29,4 +29,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" **alt="PremierePro" width="40" height="40"/>
 </div>
 <h1>:star: My Stats:</h1>
-<h1>https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly</h1>
+<img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
