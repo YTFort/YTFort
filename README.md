@@ -1,22 +1,4 @@
-<div class="context">
-        <h1>Pure Css Animated Background</h1>
-    </div>
 
-
-<div class="area" >
-            <ul class="circles">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-            </ul>
-    </div >
 <style>
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
@@ -168,3 +150,22 @@ body{
 
 }
 </style>
+
+
+<div class="context">
+<h1>Pure Css Animated Background</h1>
+</div>
+<div class="area" >
+            <ul class="circles">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+            </ul>
+</div >
