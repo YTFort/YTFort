@@ -39,7 +39,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-line.svg" title="Go" alt="Go" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
   </div>
 <h1>:star: My Stats:</h1>
 <img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
