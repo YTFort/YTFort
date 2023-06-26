@@ -28,42 +28,8 @@
 
 # :hammer_and_wrench: Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
 
 <div align="center">
-  <img src="IMG/1.png" width="200"/>
-  <h1>Fortcote</h1>
-  <h3>Youtuber | Minecrafter | Coder</h3>
-  <div id="badges">
-  <a href="https://www.youtube.com/c/Fortcote">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
-  </a>
-  <a href="https://discord.gg/bjgpVAxgyE">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="t.me/Fortcote">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a>
-    <img src="https://63ovekurg8ib.runkit.sh" alt="Status"/>
-  </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt=""/>
-</div>
-<div align="center">
-<h1> :hammer_and_wrench: Languages and Tools: </h1>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS code" **alt="VS code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro" **alt="PremierePro" width="40" height="40"/>
-</div>
 <h1> 🧑‍💻 Teach: </h1>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
