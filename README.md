@@ -1,4 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FF0000,100:960000&height=300&section=header&text=Hi,%20i'm%20Fortcote&fontSize=50)
+<div id="header" align="center">
+  <div id="badges">
+      <a href="https://www.youtube.com/c/Fortcote">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  </a>
+  <a href="https://discord.gg/bjgpVAxgyE">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="t.me/Fortcote">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a>
+    <img src="https://63ovekurg8ib.runkit.sh" alt="Status"/>
+  </a>
+  </div>
+</div>
 # 🧑‍💻 About Me :
 🛸 I am a Developer and Youtuber
 - 🌍 I make interesting programs just like that
@@ -6,7 +22,7 @@
 - 🔥 far I am engaged in all aspects of programming
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
-<div id="header" align="center">
+<div align="center">
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
   <h3>Youtuber | Minecrafter | Coder</h3>
@@ -19,6 +35,9 @@
   </a>
   <a href="t.me/Fortcote">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a>
+    <img src="https://63ovekurg8ib.runkit.sh" alt="Status"/>
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt=""/>
