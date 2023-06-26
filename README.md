@@ -1,4 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FF0000,100:960000&height=300&section=header&text=Hi,%20i'm%20Fortcote&fontSize=50)
+### 🧑‍💻 About Me :
+🛸 I am a Developer and Youtuber
+- 🌍 I make interesting programs just like that
+- 🎥 I make videos about the coolest programs on my YouTube channel
+- 🔥 far I am engaged in all aspects of programming
+- 🎮 I help people with programming and games
+- 🧑‍🎓 Mostly I'm still studying
 <div id="header" align="center">
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
