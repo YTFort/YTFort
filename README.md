@@ -25,7 +25,10 @@
 - 🔥 far I am engaged in all aspects of programming
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
-  
+
+# :hammer_and_wrench: Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python)](https://skillicons.dev)
+
 <div align="center">
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
