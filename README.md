@@ -28,6 +28,7 @@
 
 # :hammer_and_wrench: Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
+[![Skills](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)]
 
 <div align="center">
   <img src="IMG/1.png" width="200"/>
