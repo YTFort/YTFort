@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=red&height=300&section=header&text=capsule%20render&fontSize=90" />
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
   <h3>Youtuber | Minecrafter | Coder</h3>
