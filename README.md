@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hi!%20Im%20Fortcote&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=500&section=header&text=Hi,%20i'm%20Fortcote&fontSize=70)
 <div id="header" align="center">
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
