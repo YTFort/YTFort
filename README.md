@@ -15,6 +15,7 @@
   </a>
   </div>
 </div>
+
 # 🧑‍💻 About Me :
 🛸 I am a Developer and Youtuber
 - 🌍 I make interesting programs just like that
@@ -22,6 +23,7 @@
 - 🔥 far I am engaged in all aspects of programming
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
+  
 <div align="center">
   <img src="IMG/1.png" width="200"/>
   <h1>Fortcote</h1>
