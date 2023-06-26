@@ -10,7 +10,10 @@
   <a href="t.me/Fortcote">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  </div>
+  <div align="center">
     <img src="https://92zj596rcanf.runkit.sh" alt="Status"/>
+    <img src="https://48s219njoes0.runkit.sh" alt="Languages"/>
     <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt="views"/>
   </div>
 </div>
