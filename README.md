@@ -27,7 +27,7 @@
 - 🧑‍🎓 Mostly I'm still studying
 
 # :hammer_and_wrench: Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,csharp,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
 <div align="center">
   <img src="IMG/1.png" width="200"/>
