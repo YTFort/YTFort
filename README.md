@@ -19,10 +19,9 @@
 </div>
 
 <div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" /> About Me ;</h1>
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> About Me ;</h1>
 </div>
 
-# 🧑‍💻 About Me ;
 ### 🛸 **I am a Developer and Youtuber**
 - 🌍 I make interesting programs just like that
 - 🎥 I make videos about the coolest programs on my YouTube channel
@@ -30,10 +29,15 @@
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
 
-# 🛠️ Languages and Tools ;
+<div> 
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools ;</h1>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
-# ⭐ My Stats ;
+<div> 
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Stats ;</h1>
+</div>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 <div align="center">
