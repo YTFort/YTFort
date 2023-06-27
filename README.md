@@ -30,7 +30,7 @@
 - 🧑‍🎓 Mostly I'm still studying
 
 <div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools ;</h1>
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Languages and Tools ;</h1>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
@@ -45,4 +45,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat"/>
 </div>
 
-# 🧪 My projects ;
+<div> 
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My projects ;</h1>
+</div>
