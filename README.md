@@ -22,13 +22,11 @@
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="32" height="32" /> About Me ;</h1>
   <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="21" height="21" /> I am a Developer and Youtuber</h3>
   <p>• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="19" height="19" /> I make interesting programs just like that</p>
+  <p>• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="19" height="19" /> I make videos about the coolest programs on my YouTube channel</p>
+  <p>• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="19" height="19" /> Far I am engaged in all aspects of programming</p>
+  <p>• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="19" height="19" /> I help people with programming and games</p>
+  <p>• <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student.png" alt="Man Student" width="19" height="19" /> Mostly I'm still studying</p>
 </div>
-
-- 🌍 I make interesting programs just like that
-- 🎥 I make videos about the coolest programs on my [YouTube channel](https://www.youtube.com/c/Fortcote)
-- 🔥 Far I am engaged in all aspects of programming
-- 🎮 I help people with programming and games
-- 🧑‍🎓 Mostly I'm still studying
 
 <div> 
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Languages and Tools ;</h1>
