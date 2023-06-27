@@ -39,10 +39,10 @@
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Stats ;</h1>
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YTFort&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=1919195E&dates=9B0000&fire=EB5454&ring=EB1414&stroke=252525&currStreakNum=9D0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB1B1B&excludeDaysLabel=EB5454" alt="Stat"/>
-<img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode" alt="Stat1" />
+<img src="https://streak-stats.demolab.com?user=YTFort&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=1919195E&dates=9B0000&fire=EB5454&ring=EB1414&stroke=252525&currStreakNum=9D0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB1B1B&excludeDaysLabel=EB5454" alt="Stat2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat3"/>
 </div>
 
 <div> 
