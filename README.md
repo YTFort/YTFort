@@ -29,7 +29,7 @@
 # 🛠️ Languages and Tools ;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars,commits&theme=carbon)]
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode)]
 
 # ⭐ My Stats ;
 
