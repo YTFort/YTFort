@@ -43,6 +43,7 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode" alt="Stat1" />
 <img src="https://streak-stats.demolab.com?user=YTFort&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=1919195E&dates=9B0000&fire=EB5454&ring=EB1414&stroke=252525&currStreakNum=9D0000&sideNums=EB5454&currStreakLabel=EB5454&sideLabels=EB1B1B&excludeDaysLabel=EB5454" alt="Stat2"/>
 <img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat3"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YTFort&theme=github-compact" alt="Stat4"/>
 </div>
 
 <div> 
