@@ -29,13 +29,13 @@
 </div>
 
 <div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" /> Languages and Tools ;</h1>
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="32" height="32" /> Languages and Tools ;</h1>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
 <div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> My Stats ;</h1>
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> My Stats ;</h1>
 </div>
 
 <div align="center">
@@ -46,5 +46,5 @@
 </div>
 
 <div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My projects ;</h1>
+  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="32" height="32" /> My projects ;</h1>
 </div>
