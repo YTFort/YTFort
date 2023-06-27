@@ -22,7 +22,7 @@
 🛸 I am a Developer and Youtuber
 - 🌍 I make interesting programs just like that
 - 🎥 I make videos about the coolest programs on my YouTube channel
-- 🔥 far I am engaged in all aspects of programming
+- 🔥 Far I am engaged in all aspects of programming
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
 
