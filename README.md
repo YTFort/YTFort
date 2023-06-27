@@ -17,7 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt="views"/>
   </div>
 </div>
-
 # 🧑‍💻 About Me :
 🛸 I am a Developer and Youtuber
 - 🌍 I make interesting programs just like that
