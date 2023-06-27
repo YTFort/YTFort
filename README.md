@@ -18,7 +18,7 @@
   </div>
 </div>
 
-# 🧑‍💻 About Me :
+# 🧑‍💻 About Me ;
 🛸 I am a Developer and Youtuber
 - 🌍 I make interesting programs just like that
 - 🎥 I make videos about the coolest programs on my YouTube channel
@@ -26,24 +26,13 @@
 - 🎮 I help people with programming and games
 - 🧑‍🎓 Mostly I'm still studying
 
-# :hammer_and_wrench: Languages and Tools:
+# 🛠️ Languages and Tools ;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
 <div align="center">
-<h1> 🧑‍💻 Teach: </h1>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>
-  </div>
-<h1>:star: My Stats:</h1>
+<h1>:star: My Stats ;</h1>
 <img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
 <img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat"/>
-<h1>My projects:</h1>
 </div>
+
+# 🧪 My projects ;
