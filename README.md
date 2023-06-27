@@ -19,7 +19,7 @@
 </div>
 
 # 🧑‍💻 About Me ;
-🛸 I am a Developer and Youtuber
+### 🛸 **I am a Developer and Youtuber**
 - 🌍 I make interesting programs just like that
 - 🎥 I make videos about the coolest programs on my YouTube channel
 - 🔥 Far I am engaged in all aspects of programming
@@ -27,7 +27,7 @@
 - 🧑‍🎓 Mostly I'm still studying
 
 # 🛠️ Languages and Tools ;
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
 # ⭐ My Stats ;
 
