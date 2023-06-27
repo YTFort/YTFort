@@ -29,9 +29,9 @@
 # 🛠️ Languages and Tools ;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,cs,rust,go,typescript,elixir,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
 # ⭐ My Stats ;
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YTFort&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
