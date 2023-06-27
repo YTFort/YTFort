@@ -29,8 +29,9 @@
 # 🛠️ Languages and Tools ;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,swift,java,c,rust,go,typescript,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
+# ⭐ My Stats ;
+
 <div align="center">
-<h1>:star: My Stats ;</h1>
 <img src="https://streak-stats.demolab.com?user=YTFort&theme=git-dark&border_radius=5&mode=weekly" alt="Stat"/>
 <img src="https://github-readme-stats.vercel.app/api?username=YTFort&theme=shadow_red&show_icons=true" alt="Stat"/>
 </div>
