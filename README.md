@@ -46,7 +46,7 @@
 </div>
 
 <div> 
-  <iframe src="https://discord.com/widget?id=815244443196194816&theme=dark" width="350" height="500"></iframe>
+  <img src="https://discord.com/widget?id=815244443196194816&theme=dark" width="350" height="500"></img>
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="32" height="32" /> My projects ;</h1>
 </div>
 
