@@ -51,7 +51,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YTFort&theme=github-compact" alt="Stat4"/>
 </div>
 
-<div> 
-  <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="32" height="32" /> My projects ;</h1>
-</div>
 
+![projects](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=My%20projects&fontSize=40&animation=twinkling)
