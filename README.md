@@ -52,4 +52,4 @@
 </div>
 
 
-![projects](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=My%20projects&fontSize=40&animation=twinkling)
+![projects](https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,100:960000&text=My%20projects&fontSize=40)
