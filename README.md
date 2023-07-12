@@ -32,13 +32,13 @@
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="32" height="32" /> Languages and Tools ;</h1>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,ruby,mysql,git,vscode,photoshop,premiere)](https://skillicons.dev)
 
 <div> 
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Ringed Planet" width="32" height="32" /> I would like to study ;</h1>
 </div>
 
-[![Study](https://skillicons.dev/icons?i=swift,java,c,cs,rust,go,typescript,elixir)](https://skillicons.dev)
+[![Study](https://skillicons.dev/icons?i=swift,java,c,cs,rust,go,typescript)](https://skillicons.dev)
 
 <div> 
   <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="32" height="32" /> My Stats ;</h1>
