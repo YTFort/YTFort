@@ -12,7 +12,7 @@
   </a>
   </div>
   <div align="center">
-    <img src="https://r0i7rcp55pjf.runkit.sh" alt="Status"/>
+    <img src="https://7taa4mwyryie.runkit.sh" alt="Status"/>
     <img src="https://48s219njoes0.runkit.sh" alt="Languages"/>
     <img src="https://komarev.com/ghpvc/?username=YTFort&style=flat-square&color=red" alt="views"/>
   </div>
